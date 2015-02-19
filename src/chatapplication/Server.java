@@ -15,10 +15,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.SwingUtilities;
 
-/**
- *
- * @author kennytran
- */
+
 public class Server extends javax.swing.JFrame {
     private ServerSocket server;
     private ServerClient[] clients;
