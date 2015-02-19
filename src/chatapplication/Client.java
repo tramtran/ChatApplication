@@ -14,10 +14,7 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 import javax.swing.SwingUtilities;
 
-/**
- *
- * @author kennytran
- */
+
 public class Client extends javax.swing.JFrame implements Runnable{
         private ObjectInputStream input;
         private ObjectOutputStream output;
